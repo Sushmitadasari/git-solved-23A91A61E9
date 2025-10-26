@@ -1,3 +1,6 @@
+- d5184a3: Complete merge of conflict-simulator into main (Sushmitadasari, 17 seconds ago)
+- bf4eeaa: docs: Add final project artifacts (Sushmitadasari, 3 minutes ago)
+- b994fa7: docs: Update changelog after merging conflict-simulator (Sushmitadasari, 37 minutes ago)
 - 87e3808: Merge remote-tracking branch 'instructor/conflict-simulator' (Sushmitadasari, 4 hours ago)
 - 80f3434: Initial commit (Sushmitadasari, 4 hours ago)
 - d3dd9b2: updating conflict-simulator (Hanu Gupta, 3 days ago)
