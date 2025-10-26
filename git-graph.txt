@@ -1,0 +1,12 @@
+* b994fa7 (HEAD -> main, tag: v1.1.0, tag: v1.0.0, origin/main, origin/HEAD) docs: Update changelog after merging conflict-simulator
+*   87e3808 Merge remote-tracking branch 'instructor/conflict-simulator'
+|\  
+| * d3dd9b2 (instructor/conflict-simulator) updating conflict-simulator
+* | 80f3434 Initial commit
+ /  
+| * 02011a5 (instructor/dev) updating dev
+|/  
+| * 0312c6f (instructor/main, instructor/HEAD) updating main
+| * fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
