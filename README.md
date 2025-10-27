@@ -1,59 +1,88 @@
-# DevOps Simulator
+# DevOps Git Simulator - Sushmita Dasari (23A91A61E9)
 
-**EXPERIMENTAL BUILD** - Advanced CI/CD configuration management with AI integration.
+## Overview
+This project demonstrates advanced Git operations and conflict resolution techniques as part of the DevOps Simulator task.  
+It focuses on mastering real-world version control workflows using branches, merges, rebase, stash, revert, and cherry-pick.
 
-## Project Status
-**Version**: 3.0.0-experimental  
-**Environment**: Testing  
-**Maintainer**: DevOps Innovation Team
+---
 
-## Cutting-Edge Features
-- 🤖 AI-powered deployment optimization
-- 🌐 Multi-cloud orchestration (AWS, Azure, GCP, DigitalOcean)
-- 📈 Predictive scaling with machine learning
-- 🔒 Zero-trust security architecture
-- 🌊 Event-driven architecture
-- 🎯 Chaos engineering tools
+## Project Structure
+.
+├── config/
+│ ├── app-config.yaml
+│ └── database-config.json
+├── docs/
+│ └── architecture.md
+├── scripts/
+│ ├── deploy.sh
+│ └── monitor.js
+├── CHANGELOG.md
+├── GIT_JOURNEY.md
+├── README.md
+├── branches.txt
+├── remotes.txt
+├── tags.txt
+└── test.txt
 
-## Legacy Features
-- Automated deployment scripts
-- Real-time monitoring
-- Configuration management
-- Backup and recovery system
 
-## Quick Start - Advanced Mode
-```bash
-# Install AI dependencies
-pip install tensorflow keras
+---
 
-# Initialize AI models
-./scripts/init-ai-models.sh
+## Branches
+- main – Stable branch containing merged final code.  
+- dev – Used for active development and testing.  
+- conflict-simulator – Used to simulate merge conflicts for practice.  
 
-# Start with AI-enhanced mode
-npm run start:ai
-```
+---
 
-## Quick Start - Standard Mode
-1. Clone the repository
-2. Configure environment variables
-3. Run deployment script with `--experimental` flag
-4. Monitor system through AI dashboard
+## Git Operations Performed
+- Created multiple branches and managed merges.  
+- Simulated and manually resolved more than six merge conflicts in configuration and script files.  
+- Used advanced Git commands:
+  - `git stash` – temporarily saved uncommitted work.  
+  - `git rebase` – maintained a linear commit history.  
+  - `git cherry-pick` – selectively applied specific commits.  
+  - `git revert` and `git reset` – safely rolled back changes when required.  
+- Created annotated tags at major milestones (v1.0, v2.0, v3.0).  
+- Maintained a detailed CHANGELOG.md with timestamps and reasoning for updates.  
 
-## AI Integration
-Our system now uses machine learning to:
-- Predict optimal deployment times
-- Auto-scale based on predicted load
-- Detect anomalies before they cause issues
-- Suggest configuration improvements
+---
 
-## Documentation
-See `/docs` folder and `/docs/ai-integration.md`
+## Commit and Tag Summary
+- More than 20 commits across all branches.  
+- Three major annotated tags created:  
+  - v1.0 – Initial repository setup.  
+  - v2.0 – Conflict resolution completed.  
+  - v3.0 – Final documentation and cleanup.  
 
-## Warning
-⚠️ This is an experimental branch. Use at your own risk!
+---
+
+## Learning Outcomes
+- Gained practical experience with Git internals and conflict resolution.  
+- Understood branch management in collaborative development.  
+- Learned advanced Git commands for version control and recovery.  
+
+---
+
+## Final Status
+- All conflicts resolved.  
+- Clean working directory.  
+- Organized and meaningful commit history.  
+- Both origin and instructor remotes properly configured.  
+- Documentation and changelog fully updated.  
+
+---
+
+## Maintainer
+Name: Sushmita Dasari  
+Roll No: 23A91A61E9  
+Project: DevOps Git Simulator  
+Institution: Aditya University (A)  
+
+---
 
 ## License
 MIT License
+<<<<<<< HEAD
 
 ## Project Status
 ✅ Completed Git Mastery Challenge
@@ -61,3 +90,5 @@ MIT License
 - Resolved conflicts
 - Added documentation and changelog
 - Tagged final versions v1.0.0 and v1.1.0
+=======
+>>>>>>> dev
