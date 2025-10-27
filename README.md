@@ -9,13 +9,16 @@ It focuses on mastering real-world version control workflows using branches, mer
 ## Project Structure
 .
 ├── config/
-│ ├── app-config.yaml
-│ └── database-config.json
+│   ├── app-config.yaml
+│   └── database-config.json
+│
 ├── docs/
-│ └── architecture.md
+│   └── architecture.md
+│
 ├── scripts/
-│ ├── deploy.sh
-│ └── monitor.js
+│   ├── deploy.sh
+│   └── monitor.js
+│
 ├── CHANGELOG.md
 ├── GIT_JOURNEY.md
 ├── README.md
@@ -23,6 +26,7 @@ It focuses on mastering real-world version control workflows using branches, mer
 ├── remotes.txt
 ├── tags.txt
 └── test.txt
+
 
 
 ---
@@ -86,3 +90,4 @@ MIT License
 ## Project Status
 - Completed Git Mastery Challenge
 - Tagged final version v1.1.0
+
