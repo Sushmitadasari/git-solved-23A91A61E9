@@ -82,13 +82,7 @@ Institution: Aditya University (A)
 
 ## License
 MIT License
-<<<<<<< HEAD
 
 ## Project Status
-✅ Completed Git Mastery Challenge
-- Merged instructor branches
-- Resolved conflicts
-- Added documentation and changelog
-- Tagged final versions v1.0.0 and v1.1.0
-=======
->>>>>>> dev
+- Completed Git Mastery Challenge
+- Tagged final version v1.1.0
