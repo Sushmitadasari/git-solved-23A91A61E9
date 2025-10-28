@@ -6,31 +6,6 @@ It focuses on mastering real-world version control workflows using branches, mer
 
 ---
 
-## Project Structure
-.
-├── config/
-│   ├── app-config.yaml
-│   └── database-config.json
-│
-├── docs/
-│   └── architecture.md
-│
-├── scripts/
-│   ├── deploy.sh
-│   └── monitor.js
-│
-├── CHANGELOG.md
-├── GIT_JOURNEY.md
-├── README.md
-├── branches.txt
-├── remotes.txt
-├── tags.txt
-└── test.txt
-
-
-
----
-
 ## Branches
 - main – Stable branch containing merged final code.  
 - dev – Used for active development and testing.  
